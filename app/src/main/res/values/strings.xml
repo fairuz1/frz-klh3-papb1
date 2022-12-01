@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">pryk-tgs-pppb1-database1</string>
+    <string name="nameHeading">Name</string>
+    <string name="username">username</string>
+    <string name="subjectHeading">Subject</string>
+    <string name="user_image">user image</string>
+    <string name="email">email</string>
+    <string name="subject">subject</string>
+    <string name="add_data">add data</string>
+    <string name="view_data">View Data</string>
+    <string name="saved_data">Saved data</string>
+    <string name="defaultname">defaultName</string>
+    <string name="defaultsubject">defaultSubject</string>
+    <string name="test">test</string>
+    <string name="usericons">userIcons</string>
+    <string name="user_email">User Email</string>
+</resources>
