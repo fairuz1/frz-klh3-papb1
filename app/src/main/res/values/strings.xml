@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">pryk-tgs-pbbb-151122</string>
+    <string name="empty_data_text">Empty Data</string>
+    <string name="enter_name">Country Name</string>
+    <string name="add_record">Add Record</string>
+    <string name="btn_update">Update</string>
+    <string name="btn_delete">Delete</string>
+    <string name="empty_list_text">No records found</string>
+    <string name="enter_desc">Currency</string>
+    <string name="enter_title">Country</string>
+    <string name="student_id_header">student id:</string>
+    <string name="student_id">student id</string>
+    <string name="student_name">Name</string>
+    <string name="student_gender">gender</string>
+    <string name="student_address">address</string>
+    <string name="studentid">StudentId</string>
+    <string name="name">name</string>
+    <string name="major">Major</string>
+    <string name="modify_data">modify data</string>
+</resources>
