@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">pryk-tgs-pppb1-database1</string>
+    <string name="nameHeading">Name</string>
+    <string name="username">username</string>
+    <string name="subjectHeading">Subject</string>
+    <string name="user_image">user image</string>
+    <string name="email">email</string>
+    <string name="subject">subject</string>
+    <string name="add_data">add data</string>
+    <string name="view_data">View Data</string>
+    <string name="saved_data">Saved data</string>
+    <string name="defaultname">defaultName</string>
+    <string name="defaultsubject">defaultSubject</string>
+    <string name="test">test</string>
+    <string name="usericons">userIcons</string>
+    <string name="user_email">User Email</string>
+    <string name="edit">Edit Data</string>
+    <string name="delete">delete data ?</string>
+    <string name="students_data">Student\'s data</string>
+    <string name="insert_student_data">Insert Student Data</string>
+    <string name="delete_alert">Are you sure you want to delete this student data?</string>
+    <string name="delete_alert_heading">Delete Student Data</string>
+    <string name="delete_button_text">Yes, Delete Data</string>
+    <string name="cancel">Cancel</string>
+    <string name="student_lists">Student Lists</string>
+    <string name="back">back</string>
+</resources>

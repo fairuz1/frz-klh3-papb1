@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/mainAlertLayout"
+    style="@style/alertDelete">
+
+    <LinearLayout
+        android:id="@+id/alertTexts"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/deleteAlertHeading"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="@string/delete_alert_heading"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:textColor="@color/dangerRed"/>
+
+        <TextView
+            android:id="@+id/deleteAlertText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="@string/delete_alert"
+            android:textColor="@color/darkPurple"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/alertTexts"
+        android:layout_marginBottom="20dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/yesDelete"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/delete_button_text"
+            android:backgroundTint="@color/dangerRed"/>
+
+        <Button
+            android:id="@+id/noDelete"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:backgroundTint="@color/darkPurple"
+            android:text="@string/cancel"/>
+    </LinearLayout>
+
+</RelativeLayout>
